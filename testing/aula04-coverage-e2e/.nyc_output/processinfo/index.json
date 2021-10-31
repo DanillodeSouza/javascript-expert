@@ -1,0 +1,1 @@
+{"processes":{"a89684d6-e88b-46a0-b54d-527a44a7048e":{"parent":null,"children":["da9f740e-6302-43ab-b7d8-23f5cd2f945e"]},"da9f740e-6302-43ab-b7d8-23f5cd2f945e":{"parent":"a89684d6-e88b-46a0-b54d-527a44a7048e","children":[]}},"files":{"/home/gamers/projects/personal/javascript-expert/testing/aula04-coverage-e2e/api.js":["da9f740e-6302-43ab-b7d8-23f5cd2f945e"]},"externalIds":{}}
